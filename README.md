@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmitry Makhaev
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Я - Дмитрий Махаев
 ======================================================================================================================================
 
 Frontend developer
 ------------------
 
-Я начал изучать Frontend разработку пока учился на первом курсе магистратуры в Южном Федеральном Университете, Физический факультет. Начал с HTML и CSS, но дальше меня сильно увлекла разработка интерфейсов на JavaScript, так что я начал углубляться и изучать этот язык программирование, а так же React и TypeScript. Немного пробовал NodeJS. I started to study Frontend development while I was in my first year of a master's degree at Southern Federal University, Faculty of Physics. I started with HTML and CSS, but then I was greatly fascinated by the development of interfaces in JavaScript, so I began to go deeper and learn programming in this language, as well as React and TypeScript. I 've tried Node JS a bit.
+Я начал изучать Frontend разработку пока учился на первом курсе магистратуры в Южном Федеральном Университете, Физический факультет. Начал с HTML и CSS, но дальше меня сильно увлекла разработка интерфейсов на JavaScript, так что я начал углубляться и изучать этот язык программирование, а так же React и TypeScript. Немного пробовал NodeJS. 
+
+I started to study Frontend development while I was in my first year of a master's degree at Southern Federal University, Faculty of Physics. I started with HTML and CSS, but then I was greatly fascinated by the development of interfaces in JavaScript, so I began to go deeper and learn programming in this language, as well as React and TypeScript. I 've tried Node JS a bit.
 
 * 🌍  I'm based in Rostov-na-Donu
 * ✉️  You can contact me at [mahaev99@gmail.com](mailto:mahaev99@gmail.com)
@@ -30,7 +32,7 @@ src="https://img.shields.io/twitter/follow/Am1damaruu?logo=twitter&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Amidamaru-spirit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/дмитрий-махаев-45b274261" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Am1damaruu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Amidamaru-spirit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/amidamaru_spirit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/дмитрий-махаев-45b274261" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Am1damaruu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -42,8 +44,8 @@ src="https://img.shields.io/twitter/follow/Am1damaruu?logo=twitter&style=for-the
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Amidamaru-spirit/skillbox_intensive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amidamaru-spirit&repo=skillbox_intensive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Amidamaru-spirit/papa-johns-land" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amidamaru-spirit&repo=papa-johns-land&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Amidamaru-spirit/sneak-and-skate" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amidamaru-spirit&repo=sneak-and-skate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Amidamaru-spirit/-hello-world" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amidamaru-spirit&repo=-hello-world&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Amidamaru-spirit/js-tasks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amidamaru-spirit&repo=js-tasks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Amidamaru-spirit/skillbox_intensive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amidamaru-spirit&repo=skillbox_intensive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Amidamaru-spirit/papa-johns-land" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amidamaru-spirit&repo=papa-johns-land&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
