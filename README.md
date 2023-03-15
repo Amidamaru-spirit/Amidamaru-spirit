@@ -4,7 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-Frontend: - JavaScript (ES6+) - ReactJS - React Hook Form - ESLint, Prettier - SCSS / styled-components / CSS-modules Other skills: - BEM (CSS) - Git / GitHub Я начал изучать Frontend разработку пока учился на первом курсе магистратуры в Южном Федеральном Университете, Физический факультет. Начал с HTML и CSS, но дальше меня сильно увлекла разработка интерфейсов на JavaScript, так что я начал углубляться и изучать этот язык программирование, а так же React и TypeScript. В 2021 году меня забрали в армию, где за год я потерял большую часть своих навыков. Вернувшись в ноябре 2022го я начал восстанавливать свои знания и навыки и изучать новые. В данный момент я пишу пет-проекты, которые можно увидеть ниже, и ищу работу junior разработчиком. I started to study Frontend development while I was in my first year of a master's degree at Southern Federal University, Faculty of Physics. I started with HTML and CSS, but then I was greatly fascinated by the development of interfaces in JavaScript, so I began to go deeper and learn programming in this language, as well as React and TypeScript. I 've tried Node JS a bit.
+Frontend: 
+- JavaScript (ES6+) 
+- ReactJS 
+- React Hook Form 
+- ESLint, Prettier 
+- SCSS / styled-components / CSS-modules 
+
+- Other skills: 
+- BEM (CSS) 
+- Git / GitHub 
+
+- Я начал изучать Frontend разработку пока учился на первом курсе магистратуры в Южном Федеральном Университете, Физический факультет. Начал с HTML и CSS, но дальше меня сильно увлекла разработка интерфейсов на JavaScript, так что я начал углубляться и изучать этот язык программирование, а так же React и TypeScript. В 2021 году меня забрали в армию, где за год я потерял большую часть своих навыков. Вернувшись в ноябре 2022го я начал восстанавливать свои знания и навыки и изучать новые. В данный момент я пишу пет-проекты, которые можно увидеть ниже, и ищу работу junior разработчиком. 
+
+
+- I started to study Frontend development while I was in my first year of a master's degree at Southern Federal University, Faculty of Physics. I started with HTML and CSS, but then I was greatly fascinated by the development of interfaces in JavaScript, so I began to go deeper and learn programming in this language, as well as React and TypeScript. I 've tried Node JS a bit.
 
 * 🌍  I'm based in Rostov-na-Donu
 * ✉️  You can contact me at [mahaev99@gmail.com](mailto:mahaev99@gmail.com)
