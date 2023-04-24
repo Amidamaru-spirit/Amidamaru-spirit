@@ -6,6 +6,9 @@ Frontend developer
 
 Frontend: 
 - JavaScript (ES6+) 
+- TypeScript
+- Redux Toolkit
+- Axios + Fetch
 - ReactJS 
 - React Hook Form 
 - ESLint, Prettier 
