@@ -5,18 +5,19 @@ Frontend Developer (React)
 --------------------------
 
 Frontend: 
-JavaScript (ES6+) 
-TypeScript 
-Redux Toolkit 
-Axios + Fetch 
-ReactJS 
-React Hook Form 
-ESLint, Prettier 
-SCSS / styled-components / CSS-modules 
+<br>JavaScript (ES6+) 
+<br>TypeScript 
+<br>Redux Toolkit 
+<br>Axios + Fetch 
+<br>ReactJS 
+<br>React Hook Form 
+<br>ESLint, Prettier 
+<br>SCSS / styled-components / CSS-modules 
+<br>
 
-Other skills: 
-BEM (CSS) 
-Git / GitHub 
+<br>Other skills: 
+<br>BEM (CSS) 
+<br>Git / GitHub 
 
 Я начал изучать Frontend разработку пока учился на первом курсе магистратуры в Южном Федеральном Университете, Физический факультет. Начал с HTML и CSS, но дальше меня сильно увлекла разработка интерфейсов на JavaScript, так что я начал углубляться и изучать этот язык программирование, а так же React и TypeScript. В 2021 году меня забрали в армию, где за год я потерял большую часть своих навыков. Вернувшись в ноябре 2022го я начал восстанавливать свои знания и навыки и изучать новые. В данный момент я пишу пет-проекты, которые можно увидеть ниже, и ищу работу junior разработчиком. 
 
